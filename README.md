@@ -18,8 +18,6 @@ In this project, you’ll learn how to:
 - 🌍 **Distribute content globally** with **AWS CloudFront** as a CDN.
 - 🔒 **Secure your website** with **SSL/TLS** using **AWS Certificate Manager (ACM)**.
 - ⚡ **Optimize website performance** with caching strategies and multi-region delivery.
-- 💡 **Automate deployments** using **GitHub Actions** for continuous delivery.
-
 ---
 
 ## 📚 Step-by-Step Guide
