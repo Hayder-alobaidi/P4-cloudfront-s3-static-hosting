@@ -2,8 +2,10 @@
 
 Welcome to the **Global Static Website Hosting** project! This project demonstrates how to host a **static website** on AWS using services like **S3**, **CloudFront**, **Route 53**, and **AWS Certificate Manager (ACM)**. The goal is to provide a **secure**, **scalable**, and **high-performance** website that delivers content globally.
 
-(https://github.com/user-attachments/assets/0f11cdb7-d3eb-47a5-94be-e9acc0305795) ![Above: Architecture of the Static Website Hosting with AWS S3, CloudFront, ACM, Route 53, and CloudWatch.]![🌍 cloudfront-s3-static-hosting-digram]
 
+
+![🌍 cloudfront-s3-static-hosting-digram](https://github.com/user-attachments/assets/6d17bf74-2387-453b-adcf-dadabda03bc8)
+)
 
 
 ---
