@@ -26,9 +26,6 @@ Everything you need to know to set up your own **global static website** is cove
 - 🔒 **Enabling HTTPS** with ACM to secure your website.
 - 🧰 **Configuring caching** and **asset versioning** for faster content delivery.
 - 📊 **Setting up logging and monitoring** with **CloudWatch**.
-- 💸 **Optimizing costs** with S3 storage classes and CloudFront settings.
-- 🔄 **Automating deployments** with **GitHub Actions** for continuous updates.
-
 ---
 
 ## 🛠️ Technologies Used
@@ -47,15 +44,6 @@ Everything you need to know to set up your own **global static website** is cove
    Clone the project to your local machine:  
    ```bash
    git clone [repository-url]
-
-## 🚀 Deploy the Website
-
-To deploy the website, follow the step-by-step instructions provided in the [full guide in the blog](link-to-your-blog). The guide covers the following AWS services:
-
-- **S3**: Set up for static website hosting.
-- **CloudFront**: Configure for global content delivery.
-- **Route 53**: Set up for custom domain (optional).
-- **ACM**: Enable SSL/TLS for secure connections.
 
 ---
 
