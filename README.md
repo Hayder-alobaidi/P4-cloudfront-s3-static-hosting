@@ -47,7 +47,7 @@ Everything you need to know to set up your own **global static website** is cove
 1. **Clone This Repository**  
    Clone the project to your local machine:  
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Hayder-alobaidi/P4-cloudfront-s3-static-hosting.git
 
 ---
 
