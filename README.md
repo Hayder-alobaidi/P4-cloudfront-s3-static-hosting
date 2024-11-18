@@ -22,7 +22,7 @@ In this project, you’ll learn how to:
 
 ## 📚 Step-by-Step Guide
 
-Everything you need to know to set up your own **global static website** is covered in the [full blog post here](link-to-your-blog). The blog provides a comprehensive walkthrough, including:
+Everything you need to know to set up your own **global static website** is covered in the [full blog post here](https://www.showwcase.com/article/46226/global-static-website-hosting-with-aws-a-step-by-step-guide). The blog provides a comprehensive walkthrough, including:
 
 - 🗂️ **Setting up AWS S3** for static website hosting.
 - 🌐 **Configuring CloudFront** to serve content globally and boost performance.
